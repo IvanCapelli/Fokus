@@ -1,6 +1,6 @@
-<h1>FOKUS | Projeto para otimizar a sua produtividade! 🚀⏳</h1>
+<h2>FOKUS | Projeto para otimizar a sua produtividade! 🚀⏳</h2>
 
-<h2>📖 Sobre</h2>
+<h3>📖 Sobre</h3>
 <ul>
   <li>Criar Lista de Tarefas</li>
   <li>Temporizar tempo de foco na tarefa</li>
